@@ -1,4 +1,4 @@
-# Kubernetes-Zero-to-Hero
+# Kubernetes-Kops
 Creating this repo with an intent to make Kubernetes easy for begineers. This is a work-in-progress repo.
 
 ## Kubernetes Installation Using KOPS on EC2
